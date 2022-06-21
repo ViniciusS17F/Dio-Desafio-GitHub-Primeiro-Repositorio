@@ -1,0 +1,3 @@
+git add
+git commit -a
+adiciona todos os arquivos
